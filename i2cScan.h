@@ -8,6 +8,8 @@
 
 
 // vers quelel liaison série émettre ?
+// Serial pour les Arduino UNO
+// SerialUSB pour les M0 et les DUE
 #define SerialScan Serial
 
 
